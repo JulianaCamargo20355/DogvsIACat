@@ -1,4 +1,5 @@
 🇺🇸 English Version
+
 Game Description
 
 You control a dog in a 2D scene, and your goal is to move around the environment and try to reach the cat.
@@ -53,6 +54,7 @@ The project uses Unity 2022.3.45f1.
 The cat’s behavior becomes noticeably better at avoiding the player as the network trains.
 
 🇧🇷 Versão em Português
+
 Descrição do Jogo
 
 Você controla um cachorro em uma cena 2D, e seu objetivo é se movimentar pelo ambiente e tentar alcançar o gato.
