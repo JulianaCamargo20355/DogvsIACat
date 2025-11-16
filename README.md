@@ -51,7 +51,7 @@ https://play.unity.com/en/games/ae7d5a3e-3e06-49d6-9c62-e798fddad38b/player-vs-c
 Notes
 
 The project uses Unity 2022.3.45f1.
-The cat’s behavior becomes noticeably better at avoiding the player as the network trains.
+
 
 🇧🇷 Versão em Português
 
@@ -106,4 +106,3 @@ https://play.unity.com/en/games/ae7d5a3e-3e06-49d6-9c62-e798fddad38b/player-vs-c
 Observações
 
 O projeto utiliza Unity 2022.3.45f1.
-O comportamento do gato melhora de forma perceptível à medida que a rede neural treina.
